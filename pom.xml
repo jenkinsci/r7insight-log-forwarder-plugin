@@ -36,7 +36,7 @@
 		<developerConnection>scm:git:git@github.com:rapid7/r7insight_jenkins.git</developerConnection>
 		<url>https://github.com/rapid7/r7insight_jenkins</url>
 	</scm>
-
+	<url>https://wiki.jenkins.io/display/JENKINS/Rapid7+Insight+Log+Forwarder</url>
 	<repositories>
 		<repository>
 			<id>repo.jenkins-ci.org</id>
